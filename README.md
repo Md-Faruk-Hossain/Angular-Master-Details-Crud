@@ -1,4 +1,4 @@
-# Pickaboo Mobile Shop Client Service
+# Pickaboo Mobile Shop
 Angular Master Details Crud Oparetions Pro Angular , Angular Metarial Customer | Product | Orders
 # Angular-Master-Details-Crud
 This project was generated with Angular CLI version 15.1.5
