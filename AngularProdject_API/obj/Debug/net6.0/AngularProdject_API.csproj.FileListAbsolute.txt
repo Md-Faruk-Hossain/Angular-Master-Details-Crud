@@ -1,0 +1,1072 @@
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\appsettings.Development.json
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\appsettings.json
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.staticwebassets.runtime.json
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.exe
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.deps.json
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.runtimeconfig.json
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.pdb
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Humanizer.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.csproj.AssemblyReference.cache
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.AssemblyInfoInputs.cache
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.AssemblyInfo.cs
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.csproj.CoreCompileInputs.cache
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.MvcApplicationPartsAssemblyInfo.cache
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets\msbuild.AngularProdject_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularProdject_API.props
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularProdject_API.props
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularProdject_API.props
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\scopedcss\bundle\AngularProdject_API.styles.css
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.csproj.CopyComplete
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\refint\AngularProdject_API.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.pdb
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.genruntimeconfig.cache
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\ref\AngularProdject_API.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\MessagePack.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Build.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Common.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\R50\Module 08\Class 07\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\appsettings.Development.json
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\appsettings.json
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.staticwebassets.runtime.json
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.exe
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.deps.json
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.runtimeconfig.json
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.pdb
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Humanizer.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\MessagePack.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Build.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Common.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.csproj.AssemblyReference.cache
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.AssemblyInfoInputs.cache
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.AssemblyInfo.cs
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.csproj.CoreCompileInputs.cache
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.MvcApplicationPartsAssemblyInfo.cache
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets\msbuild.AngularProdject_API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularProdject_API.props
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularProdject_API.props
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularProdject_API.props
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets.build.json
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets.development.json
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\scopedcss\bundle\AngularProdject_API.styles.css
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.csproj.CopyComplete
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\refint\AngularProdject_API.dll
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.pdb
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.genruntimeconfig.cache
+F:\Prac\Ng_MasterDetails\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\ref\AngularProdject_API.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\appsettings.Development.json
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\appsettings.json
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.staticwebassets.runtime.json
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.exe
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.deps.json
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.runtimeconfig.json
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.pdb
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Humanizer.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\MessagePack.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\MessagePack.Annotations.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Build.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Common.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Configuration.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Frameworks.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.LibraryModel.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Packaging.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.ProjectModel.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Protocol.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Versioning.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Composition.Convention.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Composition.Hosting.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Composition.Runtime.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Composition.TypedParts.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.csproj.AssemblyReference.cache
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.GeneratedMSBuildEditorConfig.editorconfig
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.AssemblyInfoInputs.cache
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.AssemblyInfo.cs
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.csproj.CoreCompileInputs.cache
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.MvcApplicationPartsAssemblyInfo.cache
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets\msbuild.AngularProdject_API.Microsoft.AspNetCore.StaticWebAssets.props
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularProdject_API.props
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularProdject_API.props
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularProdject_API.props
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets.pack.json
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets.build.json
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets.development.json
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\scopedcss\bundle\AngularProdject_API.styles.css
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.csproj.CopyComplete
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\refint\AngularProdject_API.dll
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.pdb
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.genruntimeconfig.cache
+H:\10Anguler\Class_019\Class_019\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\ref\AngularProdject_API.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.staticwebassets.runtime.json
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.exe
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.deps.json
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.runtimeconfig.json
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\AngularProdject_API.pdb
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.csproj.AssemblyReference.cache
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.AssemblyInfoInputs.cache
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.AssemblyInfo.cs
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.csproj.CoreCompileInputs.cache
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets\msbuild.AngularProdject_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularProdject_API.props
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularProdject_API.props
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularProdject_API.props
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\scopedcss\bundle\AngularProdject_API.styles.css
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.csproj.CopyComplete
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\refint\AngularProdject_API.dll
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.pdb
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\AngularProdject_API.genruntimeconfig.cache
+C:\Users\Faruk\Desktop\Angular\AngularProdject_Solution\AngularProdject_API\obj\Debug\net6.0\ref\AngularProdject_API.dll

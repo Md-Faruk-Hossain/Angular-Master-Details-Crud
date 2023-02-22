@@ -1,0 +1,33 @@
+<mat-sidenav-container class="sidenav-container">
+  <mat-sidenav #drawer class="sidenav" id="sidecolor" fixedInViewport [opened]="false">
+          
+    <mat-toolbar id="menuColor">Menu</mat-toolbar>
+    <mat-nav-list id="categoryCalor" >
+      <a mat-list-item  [routerLink]="['/home']"><mat-icon class="icon" >home</mat-icon> Home</a>
+      <a mat-list-item [routerLink]="['/customers']"><mat-icon class="icon">group</mat-icon> Customers</a>
+      <a mat-list-item [routerLink]="['/products']"><mat-icon class="icon">category</mat-icon> Products</a>
+      <a mat-list-item [routerLink]="['/order']"><mat-icon class="icon">request_quote</mat-icon> Orders</a>
+    </mat-nav-list>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <mat-toolbar id="menuColor">
+      <button
+        type="button"
+        aria-label="Toggle sidenav"
+        mat-icon-button
+        (click)="drawer.toggle()">
+        <mat-icon aria-label="Side nav toggle icon">menu</mat-icon>
+      </button>
+      <span>{{appTitle}}</span>
+      <span class="example-spacer"></span>
+      <a mat-button style="color: white;" [routerLink]="['/home']">
+        Home
+      </a>
+
+    </mat-toolbar>
+    <!-- Add Content Here -->
+    <div class="container">
+      <router-outlet></router-outlet>
+    </div>
+  </mat-sidenav-content>
+</mat-sidenav-container>
